@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "49512746657",
+    "firebase_url": "https://wetase-57402.firebaseio.com",
+    "project_id": "wetase-57402",
+    "storage_bucket": "wetase-57402.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49512746657:android:af1208f23596dfab",
+        "android_client_info": {
+          "package_name": "com.sayrunjah.wetase.wetase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49512746657-cd1c0luppj827djc92tmki0migdrbtba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3xOLmATk_JJnTBMtSL1GOyRdenD9p9K0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
